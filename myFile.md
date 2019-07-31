@@ -3,7 +3,7 @@
 # microservices architecture, services are fine-grained and the protocols are lightweight. The benefit of 
 - decomposing an application into different smaller services is that it improves modularity. This makes the 
 <<<<<<< HEAD
-- application easier to understand, develop, test, and maintain become more resilient to architecture erosion.[1] 
+- application easier to understand, develop, test, and maintain dgthdgbd become more resilient to architecture erosion.[1] 
 
 
 - parallelizes development by enabling small autonomous teams to develop, deploy and scale their respective
